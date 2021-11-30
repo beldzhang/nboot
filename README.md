@@ -12,7 +12,7 @@
 ### Download
 [Link](https://drive.google.com/drive/folders/1NhjXsTQ1b0g8SMdH2N6fcIzUEd7BYSvf?usp=sharing)
 
-  `nboot-rpi-x.y.zzzz-<server-arch>.run`
+  `nboot-rpi-x.y.zzzz-<server-arch>-<build>.run`
 
   Server for Raspberry PI client.
     
