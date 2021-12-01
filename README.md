@@ -20,3 +20,8 @@
 
   Boot packages for Raspberry PI 4B
   
+### Demo
+ [Video](https://youtu.be/-rKYfYdSFOA)
+  - Server Installation and configuration
+  - Uploading from Raspberry PI 4
+  - Auto-Add and booting
