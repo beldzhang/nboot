@@ -1,6 +1,8 @@
 # OSVirt nBoot
   _all-in-one server to run diskless linux clients_
 
+  [Documents on wiki](https://github.com/os-virt/nboot/wiki)
+  
 ### Features
   - Install official distro and software, no modification required
   - Block device based, much faster performance
