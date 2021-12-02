@@ -25,3 +25,4 @@
   - Server Installation and configuration
   - Uploading from Raspberry PI 4
   - Auto-Add and booting
+  - Change another Disk Image
